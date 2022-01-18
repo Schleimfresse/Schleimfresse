@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @linux12sd
-- 👀 I’m interested in 
-- 🌱 I’m currently learning HTML, CSS, JS
-- 📫 How to reach me: you can not reach me
+
