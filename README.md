@@ -1,3 +1,3 @@
 ## Hey,
-I am Linus Genz
+I am Linus Genz. 
 See you ✌ :)
